@@ -1,0 +1,6 @@
+@FiskAPI_HostAddress = http://localhost:5262
+
+GET {{FiskAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

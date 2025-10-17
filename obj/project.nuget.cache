@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Iogo7aBjM0Y=",
+  "success": true,
+  "projectFilePath": "/Users/hannahhoilo/Desktop/IT-Frontend-og-mobilutvikling/3.semester/DS3103-Webutvikling/17-dotnetcsharp/forelesning/FiskAPI/FiskAPI.csproj",
+  "expectedPackageFiles": [
+    "/Users/hannahhoilo/.nuget/packages/microsoft.aspnetcore.openapi/9.0.10/microsoft.aspnetcore.openapi.9.0.10.nupkg.sha512",
+    "/Users/hannahhoilo/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
