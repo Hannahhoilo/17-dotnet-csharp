@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FiskAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e47d1301f5466bf5e9d052ca660199df8b04fb1c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+08b0384cf7ed25b2aab1bc4854ad275f38b1303c")]
 [assembly: System.Reflection.AssemblyProductAttribute("FiskAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FiskAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

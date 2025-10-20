@@ -8,7 +8,7 @@ namespace FiskAPI.Controllers;
 
 [ApiController]
 [Route("[controller]")]
-// alle apikontrollere skal arve gra controllerbase
+// alle apikontrollere skal arve fra controllerbase
 public class FishController : ControllerBase
 {
 
